@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<!--
+	To develop this webpage and the text content a template was used and modified to satisfy the project scope.
+	The template was provided by Hyperspace by HTML5 UP html5up.net | @ajlkn
+	The permission to use the template is governed by (https://creativecommons.org/licenses/by/3.0/)
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Alumni Log-In</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index_Alumni Registry.html" class="title">Per Scholas Alumni Registry</a>
+				<nav>
+					<ul>
+						<p>
+                        <li><a href="index_Alumni Registry.html" class="active">Home</a></li>
+						<li><a href="application_Alumni Registry.html">Membership</a></li>
+						<li><a href="developers_Alumni Registry.html">The Developers</a></li>
+                        <li><a href="https://perscholas.org/donate/" target="_blank">Donate</a></li>
+                        </p>
+					</ul>
+				</nav>
+			</header>
+
+
+<!-- START ChatGPT HTML CODE -->
+
+ <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #acacec;
+        }
+        .login-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+        .login-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .login-container input[type="text"],
+        .login-container input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .login-container button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .login-container button:hover {
+            background-color: #45a049;
+        }
+        .login-container .forgot-password {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .login-container .forgot-password a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .login-container .forgot-password a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="login-container">
+    <h2>Login</h2>
+    <form action="/login" method="POST">
+        <input type="text" name="username" placeholder="Username" required>
+        <input type="password" name="password" placeholder="Password" required>
+        <button type="submit">Login</button>
+        <div class="forgot-password">
+            <a href="#">Forgot your password?</a>
+        </div>
+    </form>
+</div>
+
+
+<!-- END ChatGPT HTML CODE -->
+        
+
+	</body>
+</html>

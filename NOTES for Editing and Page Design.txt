@@ -1,0 +1,360 @@
+<!-- START COMMENT 
+
+		<!-- GO TO Line 228: The Graduating Class -->
+
+
+<!-- HOME AND WELCOME PAGE: [ Welcome Message and Text ] FILE: index_Alumni Registry.html -->
+
+Welcome to the Per Scholas Alumni Registry website designed and developed by the Visionaries.
+The Visionaries are 5 professionals and graduates of Per Scholas. They are Donovan Salmon, Demarco Siler, 
+Elizabeth Teena Lalu, Emmanuel Ubhimhiye, and Babiyew Zewdie.
+
+
+The website was created to curate a community of diverse IT Professionals. Membership in the community
+is based on an application process. Each application is evaluated before a candidate's membership is approved 
+by a panel of industry subject matter experts (SME). Select apply for membership for more information.
+
+Visit the Developers page to learn more about the professionals, their vision, projects
+and their mission to bring awareness to STARS-Skilled Through Alternative Routes.
+
+
+
+<!-- PROJECT AND WEBSITE RESOURCES -->
+	<!-- LOREM IPSUM: https://www.lipsum.com/ for sample text -->
+	<!-- TERMLY: https://termly.io/products/privacy-policy-generator/?ftseo for policy generator -->
+	<!-- LUCID: https://www.lucidchart.com/pages/? for wireframe and design -->
+	<!-- UNSPLASH: https://unsplash.com/ for free images/pictures -->
+	<!-- GITHUB: https://github.com/ for code repository --> 
+	<!-- ATOM.IO: https://atom-editor.cc/ for text editor -->
+	<!-- VISUAL STUDIO: https://visualstudio.microsoft.com/ for IDE-Integrated Development Environment -->
+
+	<!-- W3SCHOOLS: https://www.w3schools.com/ for learning coding languages -->
+
+	<!-- SNIPPING TOOL: https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b -->
+
+
+
+
+<!-- PROJECT AND WEBSITE DOCUMENTS -->
+	<!-- MASTER PROJECT DOCUMENT -->
+		<!-- https://docs.google.com/document/d/1XwkphG7TmFCPsqecN6YZWHvqBLJTM5fy-M39hrUozg0/edit?usp=sharing -->
+
+	<!-- STEPS FOR HOSTING A WEBSITE -->
+		<!-- https://docs.google.com/document/d/1iFDmXqjicc0dpWhwYqk8rPzzoe1zBKBXb3HxqvQLGQ8/edit?usp=sharing -->
+
+	<!-- WEBSITE WIRE FRAME AND DESIGN -->
+		<!-- https://docs.google.com/document/d/1az-tuUr7iFtdlP8PXCXAh2yPTVKWnXEGdahA8Hb9LAk/edit?usp=sharing -->
+
+	<!-- MINUTES TO THE MEETINGS -->
+		<!-- https://docs.google.com/document/d/1xRvspiH0NUJE3FBtK2SKcwo8kzZXI34az7LECHEDU7E/edit?usp=sharing -->
+
+
+
+<!-- HOME AND WELCOME PAGE: [ CHANGES AND EDITING ] FILE: index_Alumni Registry.html -->
+	<!-- Change Navigation -->
+			<!-- Welcome Per Scholas Alumni Registry to READ: Welcome Alumni -->
+			<!-- Get In Touch to READ: Contact Us -->
+			<!--Apply for Membership to READ: Membership -->
+				<!-- completed: 8-29-2024 at 5pm -->
+
+			<!-- The Developers: <li><a href="#six">The Developers</a></li>
+			Create the link to:
+				<a href="developers_Alumni Registry.html">The Developers</a> -->
+				<!-- completed: 8-30-2024 at 10:45am -->
+			
+			<!--Alumni Log-In: <li><a href="#five">Alumni Log-In</a></li>
+				Create the Link to: the Log-In Pages after it is created  -->
+					<!-- completed: 9-04-2024 at 1:30pm -->
+			<!--  -->
+
+
+
+	<!-- Change Header Text -->
+			<!-- Per Scholas Alumni Registry to READ: Welcome Per Scholas Alumni -->
+				<!-- completed: 8-29-2024 at 12pm -->
+
+
+
+	<!-- WEBSITE LOGO -->
+		<!-- The Website Logo must be on every page -->
+			<!-- Alumni Registry Logo design -->
+			<!-- Image: https://drive.google.com/file/d/1NkWYJ4KDPXuA2b5YjTTqKXRKJ54xaDhc/view -->
+
+
+
+
+	<!-- DEVELOPERS LOGO -->
+		<!-- The  Logo must be on The Devlopers page -->
+			<!-- Developers Visionaries Logo design -->
+			<!-- Image: https://drive.google.com/file/d/1j6Ee0Fu7v2laGoWlchJ0Dqs232e08h72/view -->
+
+
+
+
+	<!-- WEBSITE CUSTOMIZED PAGES -->
+		<!-- Apply For Membership -->
+		<!-- Alumni Log-In -->
+		<!-- The Developers -->
+		<!-- Donate -->
+		<!-- Privacy Policy -->
+		<!-- Terms and Conditions -->
+
+
+
+
+	<!-- SIDE SCROLL BAR -->
+		Who We Are
+		What We Do
+		Get In Touch
+		Apply for Membership
+		Alumni Log-In
+		The Developers
+
+
+
+	<!-- WHO ARE WE -->
+
+		<!-- Edit Christopher Learn More Button to point to the Developers Page. -->
+			<!-- <li><a href="developers_Alumni Registry.html" class="button">Learn more</a></li> -->
+				<!-- <li><a href="developers_Alumni Registry.html">The Developers</a></li> -->
+					<!-- Presently the button point to the graduating class. -->
+						<!-- <li><a href="generic_Alumni Registry.html" class="button">Learn more</a></li> -->
+			<!-- completed: 8-30-2024 at 8:52am -->
+
+
+		<!-- Edit Coach P Learn More Button to point to the Apply for Membership Page. -->
+			<!-- <li><a href="application_Alumni Registry.html" class="button">Learn more</a></li> -->
+				<!-- <li><a href="application_Alumni Registry.html">Membership</a></li> -->
+					<!-- Presently the button point to the graduating class. -->
+						<!-- <li><a href="generic_Alumni Registry.html" class="button">Learn more</a></li> -->
+			<!-- completed: 8-30-2024 at 8:09am -->
+
+		<!-- Use CSS to style images. -->
+
+
+
+	<!-- WHAT WE DO -->
+		<!-- Edit the Lorem ipsum text -->
+		<!-- Use the Master Project Planning Document to locate the text for this page. -->
+		<!-- Copy and paste the URL below to open the Master Project Planning Document. -->
+		<!-- https://docs.google.com/document/d/1XwkphG7TmFCPsqecN6YZWHvqBLJTM5fy-M39hrUozg0/edit -->
+		<!-- From the Table of Content select User Interface Page 18-22 -->
+		<!-- The required Titles and text can be found on Pages 18-22 -->
+		<!-- Edit the Learn More Button to point to the Developers Page. -->
+			<!-- Presently the button point to the graduating class. -->
+				<!-- completed: 9-08-2024 at 5:30am -->
+
+
+
+	<!-- GET IN TOUCH -->
+		<!-- Edit the Lorem ipsum text -->
+		<!-- Edit the contact information by using the Per Scholas Alumni.org information -->
+		<!-- Edit the Send Message button to point to the Per Scholas Alumni email: registration@perscholasalumniregistry.org -->
+		<!-- Include CAPTCHA - I'm not a robot -->
+
+
+
+
+	<!-- APPLY FOR MEMBERSHIP -->
+		<!-- Horizontal Navigation -->
+				Home
+				Developers
+				Donate
+				Alumni Log-In
+
+		<!-- Change Developers to The Developers -->
+		<!-- Place Alumni Log-In navigation link after Donate -->
+		<!-- Split the Elements between two columns -->
+		<!-- Create a list of US States -->
+		<!-- Create a list of Countries -->
+		<!-- Submit Application button to point to the Per Scholas Alumni
+				 email: registration@perscholasalumniregistry.org -->
+					<!-- completed: 9-09-2024 at 12:30am -->
+
+
+
+	<!-- ALUMNI LOG-IN -->
+		<!-- We will need to create this page -->
+		<!-- User ID -->
+		<!-- User Password -->
+		<!-- MFA - Multi-factor authentication -->
+			<!-- completed: 9-04-2024 at 1:30pm -->
+					
+		<!-- Include CAPTCHA - I'm not a robot -->
+
+
+
+
+	<!-- THE DEVELOPERS -->
+		<!-- Include the Developers' Logo on the page -->
+			<!-- Visionaries Logo 2 → Colorful Brain Logo -->
+			<!-- Image: https://drive.google.com/file/d/1j6Ee0Fu7v2laGoWlchJ0Dqs232e08h72/view -->
+
+
+		<!-- Embed YoTube Video -->
+			<!-- https://youtu.be/PfQwaK3mrQ0 -->
+				<!-- completed: 9-08-2024 at 4:30am -->
+
+
+		<!-- HORIZONTAL NAVIGATION -->
+				Home
+				Membership
+				Donate
+				Alumni Log-In
+
+
+		<!-- INTRODUCTION -->
+			<!-- Edit the introduction text. -->
+		
+		
+		<!-- HORIZONTAL NAVIGATION -->
+		<!-- Change Register Here to Membership -->
+			<!-- <li><a href="application_Alumni Registry.html" class="active">Membership</a></li> -->
+				<!-- completed: 8-30-2024 at 11:04am -->
+
+
+		<!-- Replace the picture and bio for Christopher and Coach P -->
+		<!-- With the pictures and bio of the Visionaries Team Members [ Source: LinkedIn Page ] -->
+			<!-- <a href="#" class="image"><img src="images/stock01-developer-donovan.jpg" alt="" data-position="top center" width="250" height="250" /></a> -->
+			<!-- <a href="#" class="image"><img src="images/stock02-developer-demarco.jpg" alt="" data-position="25% 25%" width="250" height="250" /></a> -->
+			<!-- <a href="#" class="image"><img src="images/stock03-developer-elizabeth.jpg" alt="" data-position="25% 25%" width="250" height="250" /></a> -->
+			<!-- <a href="#" class="image"><img src="images/stock04-developer-emmanuel.jpg" alt="" data-position="25% 25%" width="250" height="250" /></a> -->
+			<!-- <a href="#" class="image"><img src="images/stock05-developer-babiyew.jpg" alt="" data-position="25% 25%" width="250" height="250" /></a> -->
+				<!-- completed: 8-30-2024 at 9:28am -->
+
+				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a rhoncus mauris.</a><br /> 
+					Etiam ultrices mattis velit vitae finibus. Pellentesque interdum magna arcu, a gravida odio tristique in.</a><br /> 
+					Nulla sed pellentesque ligula. Suspendisse id risus dolor. Nulla magna magna, laoreet sed aliquet eu,</a><br />
+					sagittis id justo. Vivamus luctus venenatis facilisis. Maecenas sollicitudin tempor metus,</a><br /> 
+					sit amet iaculis orci euismod lobortis. Aenean blandit purus et ultrices blandit.</a><br />
+					Integer egestas nec tortor ac ullamcorper.</p> -->
+				<!-- completed: 8-30-2024 at 10:17am -->
+
+
+			<!-- DONOVAN SALMON-->
+				<!-- <p>A versatile and purposeful professional adept in accounting analysis, Cloud Infrastructure,</a><br /> 
+					and related information technology domains. A project management professional blending extensive</a><br />
+					 AWS expertise with over 10 years in financial management, business analysis, and emerging business architecture.</a><br />
+					 Proficient in deploying and supporting diverse Cloud solutions such as Infrastructure as a Service (IaaS), Software as a Service (SaaS),</a><br />
+					 and Platform as a Service (PaaS), with a laser focus on the client and business needs.</p>
+ 
+				<p>Astute at identifying solutions for complex problems by applying a strategic and analytical approach to meet the need.</a><br />
+					Known for exceptional communication skills, endorses collaborative teamwork, and adaptability,</a><br />
+					 excels in diverse environments, ensuring effective coordination between cross-functional teams</a><br />
+					 to drive project success.</p> -->
+				<!-- completed: 8-30-2024 at 10:36am -->
+
+
+		<!-- Left Align Images and Text -->
+		<!-- Edit the Learn More buttons for each Developer to Link to their LinkedIn Page or URL for their digital Portfolio. -->
+		
+		<!-- Edit Copyright Footer text and design text, see the next line for the code. -->
+			<!-- <li>&copy; Copyright 2024 All rights reserved.</li><li>Designed by Per Scholas Alumni. <a href="https://alumni.perscholas.org/" target="_blank">Per Scholas Alumni.org</a></li> -->
+				<!-- completed: 8-30-2024 at 9:28am -->
+
+
+
+	<!-- THE GRADUATING CLASS: generic_Alumni Registy.html -->
+		<!-- HORIZONTAL NAVIGATION -->
+			Home
+			Register Here
+			Alumni Log-In
+		
+
+		<!-- INTRODUCTION -->
+			<!-- Suggested Styling the Graduation Image
+					to practice using CSS styling elements -->
+
+		<!-- HORIZONTAL NAVIGATION -->
+			<!-- Change Register Here to Membership -->
+			<!-- Link Membership to the Registration Page: application_Alumni Registry.html -->
+				<!-- <li><a href="application_Alumni Registry.html" class="active">Membership</a></li> -->
+
+			<!-- Add a Link to The Developer Page: developers_Alumni Registry.html -->
+				<!-- <li><a href="developers_Alumni Registry.html">The Developers</a></li> -->
+
+		<!-- EDIT FOOTER -->
+			<li>&copy; Copyright 2024 All rights reserved.</li><li>Designed by Per Scholas Alumni. <a href="https://alumni.perscholas.org/" target="_blank">Per Scholas Alumni.org</a></li>
+				<!-- completed: 9-01-2024 at 5:30pm -->
+
+		<!-- HORIZONTAL NAVIGATION -->
+			<!-- Include Alumni Registry Logo -->
+			<!-- Image: https://drive.google.com/file/d/1NkWYJ4KDPXuA2b5YjTTqKXRKJ54xaDhc/view -->
+				<!-- <img id="registrylogo" src="images/pic14registrylogo.png" alt="logo" />
+						<a>Train . Mentor . Fund</a> -->
+
+
+
+
+
+	<!-- WEBSITE FOOTER - SAMPLE POLICY AND TERMS -->
+
+		<li>&copy; Copyright 2024 All rights reserved.</li><li>Designed by Per Scholas Alumni. <a href="https://alumni.perscholas.org/" target="_blank">Per Scholas Alumni.org</a></li>
+
+			<!-- https://perscholas.org/wp-content/uploads/2020/08/PIIComments_11.9.pdf -->
+			<!-- https://perscholas.org/wp-content/uploads/2020/08/Terms_and_Conditions-1.pdf -->
+			<!-- https://hbanet.org/privacy-policy -->
+
+
+
+	<!-- LAUNCH AND TESTING -->
+
+
+
+
+REFERENCE:
+
+WRITING A COMMENT
+<!-- This is a comment -->
+
+Here's how it works:
+<!-- starts the comment.
+--> ends the comment.
+
+
+LEARN MORE BUTTON
+Welcome Page
+BUTTON 1 - Scrolls Home Page
+
+BUTTON 2 - Graduating Class
+Cohort 9 Graduates
+<li><a href="generic_Alumni Registry.html" class="button">Learn more</a></li>
+
+BUTTON 3 - Graduating Class
+Christopher Munoz
+<li><a href="generic_Alumni Registry.html" class="button">Learn more</a></li>
+
+BUTTON 4 - Graduating Class
+Anita Preer
+<li><a href="generic_Alumni Registry.html" class="button">Learn more</a></li>
+
+BUTTON 5 - Graduating Class
+What We Do
+<li><a href="generic_Alumni Registry.html" class="button">Learn more</a></li>
+
+
+
+PER SCHOLAS
+https://perscholas.org/
+<a href="https://perscholas.org/" target="_blank">Per Scholas.org</a>
+
+
+STARS
+https://www.tearthepaperceiling.org/about-stars
+<a href="https://www.tearthepaperceiling.org/about-stars" target="_blank">Tear the Paper Ceiling.org</a>
+
+
+PER SCHOLAS ALUMNI
+https://alumni.perscholas.org/
+<a href="https://alumni.perscholas.org/" target="_blank">Per Scholas.org</a>
+
+
+LINKS TO PER SCHOLAS.ORG AND TEAR THE PAPER CEILING.ORG
+<li><a href="https://perscholas.org/" target="_blank">Per Scholas.org</a> 
+<a href="https://www.tearthepaperceiling.org/about-stars" target="_blank">Tear the Paper Ceiling.org</a></li>
+
+
+END COMMENT  -->
+
+
+

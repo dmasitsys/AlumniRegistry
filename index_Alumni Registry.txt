@@ -1,0 +1,280 @@
+<!DOCTYPE HTML>
+<!--
+	To develop this webpage and the text content a template was used and modified to satisfy the project scope.
+	The template was provided by Hyperspace by HTML5 UP html5up.net | @ajlkn
+	The permission to use the template is governed by (https://creativecommons.org/licenses/by/3.0/)
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Welcome Per Scholas Alumni</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">Welcome Alumni</a></li>
+							<li><a href="#one">Who we are</a></li>
+							<li><a href="#two">What we do</a></li>
+							<li><a href="#three">Contact Us</a></li>
+							<li><a href="application_Alumni Registry.html">Membership</a></li>
+							<li><a href="loginpage_Alumni Registry.html">Alumni Log-In</a></li>
+							<li><a href="developers_Alumni Registry.html">The Developers</a></li>
+							<li><a href="https://perscholas.org/donate/" target="_blank">Donate</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1>Welcome Per Scholas Alumni</h1>
+							<p>Welcome to the Per Scholas Alumni Registry website designed by The Visionaries.</a><br />
+							The Visionaries are 5 professionals and graduates of Per Scholas. They are Donovan Salmon,</a><br />
+							Demarco Siler, Elizabeth Teena Lalu, Emmanuel Ubhimhiye, and Babiyew Zewdie.</a><br />
+							
+							<p>The website was created to curate a community of diverse IT Professionals. Membership in the community
+							is based on an application process. Each application is evaluated before a candidate's membership is approved 
+							by a panel of industry subject matter experts (SME). Select apply for membership for more information.</a><br />
+
+							<p>Visit the Developers page to learn more about the professionals, their vision, projects</a><br />
+							and their mission to bring awareness to STARS-Skilled Through Alternative Routes</a>.</p>
+							<ul class="actions">
+								<li><a href="#one" class="button scrolly">Learn more</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<div class="content">
+								<h2>Per Scholas Cohort 9 Graduates and Advisors</h2>
+								<a href="#" class="image"><img src="images/pic01Cohort9.png" alt="" data-position="center" /></a>
+								<div class="inner">
+									<p></p>
+									<p><a>This is Cohort 9 AWS re/Start graduating class of June 2024.</a><br />
+									<a>The Academic Adviors were Roberto Santos, Lead Technical Advisor,</a><br />
+									<a>Christopher Munoz, Technical Advisor, Michael Boggs, Technical Director,</a><br />
+									<a>and Anita Preer, Professional Development and Career Coach.</a></p>
+									<ul class="actions">
+										<li><a href="generic_Alumni Registry.html" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/pic02ChristopherMunoz.png" alt="" data-position="top center" style="margin-left: 110px; border: 2px solid #3a22b6; padding: 5px;" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Christopher Munoz</h2>
+									<p>AWS/Restart Teaching Fellow and Technical Instructor at Per Scholas | 2x AWS Certified | Comptia A+ Certified | Microsoft Azure Certified. A dynamic and driven individual, committed to continuously sharing his knowledge and skills.</p>
+									<ul class="actions">
+										<li><a href="developers_Alumni Registry.html" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/pic03AnitaCoachPreer.png" alt="" data-position="center center" style="margin-left: 110px; border: 2px solid #3a22b6; padding: 5px;" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Anita Preer aka Coach P</h2>
+									<p>Professional Development Trainer."Coach P" specializes in providing training and development to a diverse audience by connecting with professionals from all backgrounds and within various industries using various LMS systems.</p>
+									<ul class="actions">
+										<li><a href="application_Alumni Registry.html" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>What we do</h2>
+							<p>Per Scholas.org, Per Scholas Alumni.org, Alumni, and future Graduates in partnership
+								 with the Stakeholders launched The Per Scholas Alumni Registry, which is designed
+								  to be a unique ecosystem and members only platform for IT Professionals.</p>
+							<div class="features">
+								<section>
+									<span class="icon major fa-gem"></span>
+									<h3>About Us</h3>
+									<p>The objective of this ground-breaking Cloud platform will revolutionize how IT Professionals promote
+										 their brand, collaborate on projects, engage prospective employers, and mentor other Per Scholas
+										  Learners and professionals pursuing the completion of their Information Technology
+										   certification.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-lock"></span>
+									<h3>Our Why</h3>
+									<p>Our Why is to harness the collective minds, financial resources, and buying power of the Alumni
+										 population to promote access to capital, while allowing our members to access discounted 
+										 consumer prices.</p>
+										 
+										 <p>This will be accomplished by negotiating purchasing agreements on 
+										 behalf of our members. Members will pay an annual subscription, generating a new source of private funding.
+										  This approach will not only benefit individual members but also supports the broader goal
+										   of enhancing the operating budget of Per Scholas.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-cog"></span>
+									<h3>The Mission</h3>
+									<p>The Mission is anchored to the commitment of members to pay-it-forward through membership dues. 
+										The financial resources generated from the Dues collected, will be dedicated to enhancing the
+										 operating budget of Per Scholas, making robust training resources more accessible to future
+										  learners. Additionally, offering financial support to qualified candidates who meet
+										   specific evaluation criteria, ensuring that the benefits of the Alumni Registry extends
+										    beyond its members, reaching individuals who may otherwise face financial and other barriers to entry
+											 into the technology industry.</p>
+
+											 <p>By establishing a cycle of support and investment, the mission demonstrates
+												 a sustainable approach to community empowerment and industry advancement.
+												  It aligns the interests of Alumni Registry members with the broader
+												   goal of fostering growth and opportunity within the technology sector.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-desktop"></span>
+									<h3>The Vision</h3>
+									<p>The Vision is focused on empowering IT professionals and supporting community
+										 initiatives that create professionals who are Skilled Through Alternative Route (STAR).</p>
+
+									<p>The Vision encompasses three key value principles:</p>
+									<ul style="padding-left: 120px; margin-top: -40px;">
+										<li>Funding</li>
+										<li>Mentoring</li>
+										<li>Training</li>
+									</ul>
+									<p>The emphasis on funding, mentoring, and training reflects a holistic approach to bridging
+										 the gap between underserved communities and the technology industry.</p>
+
+									<p>The financial contributions from Alumni members will provide a sustainable source of
+										 funding, enabling the expansion of services and programs offered to the learning 
+										 community. Alumni members participating as guest instructors will provide
+										  valuable insight to those navigating the Information Technology (IT) career path.</p>
+
+									<p>Overall, the vision must uphold the value of being well-rounded and impactful,
+										 with a focus on both individual development and community empowerment.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-link"></span>
+									<h3>The Project Concept</h3>
+									<p>The project concept involved developing a Registry of IT Professionals who have graduated
+										 from Per Scholas. Alumni and graduates will pay a subscription to have their profile
+										  and portfolio promoted on the Registry.
+										</p>
+									<p>All Alumni, who are Members of the Registry, will donate a percentage of their income
+										 (1% - 10%) to Per Scholas.org. A percentage (70% or more) of their donation will
+										  be designated to the future funding of Per Scholas programs and initiative.
+										   In addition, a percentage of the total donated funds (not exceeding 30%)
+										    will be dedicated to the compensation budget of Per Scholas Employees and Instructors.
+										</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>The Developers</h3>
+									<p>The Developers, known as the VISIONARIES, a technology think tank, conceived and
+										 developed the project to showcase how a National Per Scholas Alumni Registry could be
+										  brought to life to benefit all Per Scholas Alumni, potential graduates, Stakeholders, 
+										   Per Scholas.org, and Per Scholas Alumni.org.</p>
+								</section>
+							</div>
+							<ul class="actions">
+								<li><a href="developers_Alumni Registry.html" class="button">Learn more</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="wrapper style1 fade-up">
+						<div class="inner">
+							<h2>Get in touch</h2>
+							<p>Fill out the form below, and a member of the Per Scholas Alumni Registry team will
+								 get back to you as soon as possible.</p>
+							<div class="split style1">
+								<section>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="name">Name</label>
+												<input type="text" name="name" id="name" />
+											</div>
+											<div class="field half">
+												<label for="email">Email</label>
+												<input type="text" name="email" id="email" />
+											</div>
+											<div class="field">
+												<label for="message">Message</label>
+												<textarea name="message" id="message" rows="5"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><a href="" class="button submit">Send Message</a></li>
+										</ul>
+									</form>
+								</section>
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Address</h3>
+											<span>804 E 138th St Suite #2<br />
+													Bronx, NY 10454<br />
+													USA</span>
+										</li>
+										<li>
+											<h3>Email</h3>
+											<a href="#">registration@perscholasalumniregistry.org</a>
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<span>(718) 991-8400</span>
+										</li>
+										<li>
+											<h3>Social</h3>
+											<ul class="icons">
+												<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+												<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+												<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Copyright 2024 All rights reserved.</li><li>Designed by Per Scholas Alumni. <a href="https://alumni.perscholas.org/" target="_blank">Per Scholas Alumni.org</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
